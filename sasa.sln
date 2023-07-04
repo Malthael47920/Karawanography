@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.4.33205.214
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "sasa", "sasa\sasa.csproj", "{4020601A-3DF1-4AEE-B94D-81B18449A897}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{4020601A-3DF1-4AEE-B94D-81B18449A897}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{4020601A-3DF1-4AEE-B94D-81B18449A897}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{4020601A-3DF1-4AEE-B94D-81B18449A897}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{4020601A-3DF1-4AEE-B94D-81B18449A897}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {2E27C365-8540-4D84-A76B-F24AA5DA58D8}
+	EndGlobalSection
+EndGlobal
